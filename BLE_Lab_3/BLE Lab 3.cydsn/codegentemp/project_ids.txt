@@ -1,0 +1,5 @@
+C:\Users\Yobely\Desktop\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cyprj|7216d2f8-9cc7-43cc-9b3d-3541e1243a53
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2a67ecf4-7ac1-4a32-9215-07934ad97b01
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1645bbe8-88e2-47ea-986e-63468cde5a74
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9a2cd24e-e191-442f-a8da-d52275a0ea23
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|76a2bacf-675d-4e0f-ab6b-7c687833b6f1

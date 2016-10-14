@@ -1,0 +1,24 @@
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/CortexM0/ARM_GCC_484/Debug/Opamp.o : C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp.c 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp.c : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/CortexM0/ARM_GCC_484/Debug/Opamp_PM.o : C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp_PM.c 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/Opamp_PM.c : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/CortexM0/ARM_GCC_484/Debug/cyfitter_cfg.o : C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/Yobely/Desktop/BLE\ Lab\ 3/BLE\ Lab\ 3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.c : 
+
